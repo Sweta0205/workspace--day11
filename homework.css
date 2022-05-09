@@ -1,0 +1,48 @@
+.myDiv {
+    border: 5px outset black;
+    padding: 20px;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+}
+
+.table {
+    border: 2px solid;
+    width: 90%;
+    border-collapse: collapse;
+    margin: 30px;
+    padding: 8px;
+    background-color: yellowgreen;
+
+
+}
+
+.img {
+    width: 2px ;
+    height: 10px;
+
+}
+
+.footer {
+    text-align: center;
+    padding: 3px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.red{
+    background-color: red;
+}
+.link
+{
+    background-color: red;
+
+}
+.cssclass
+{
+    background-color: none;
+}
+.cssvisibility
+{
+visibility: hidden;
+}
